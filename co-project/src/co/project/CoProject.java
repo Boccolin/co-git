@@ -19,6 +19,7 @@ public class CoProject {
     }
     
     public static int test(int a,int b){
+        System.out.println("55");
         return a+b;
     }
     
